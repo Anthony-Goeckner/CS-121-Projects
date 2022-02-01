@@ -1,0 +1,13 @@
+Enter title: Enter artist: Enter album: Enter play time (mm:ss): Enter title: Enter artist: Enter album: Enter play time (mm:ss): Enter title: Enter artist: Enter album: Enter play time (mm:ss): 
+
+Average play time for songs: 234.00
+
+Song with play time closest to 240 secs: Big Jet Plane (or either other song)
+
+========================================================================================
+Title                          Artist               Album                           Time
+========================================================================================
+Big Jet Plane                  Julia Stone          Down the Way                     234
+Toy Jet Plane                  Julia Rock           Way Down the Way                 234
+Ginormous Jet Plane            Julio Stone          Down Yonder                      234
+========================================================================================
